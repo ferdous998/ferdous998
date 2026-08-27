@@ -8,7 +8,14 @@ Web Security & Bug Bounty Enthusiast&nbsp;&nbsp;|&nbsp;&nbsp;Windows Administrat
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+in+Progress;Building+Real-World+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Learning+Laravel+%7C+MySQL;Web+Security+%26+Bug+Bounty+Enthusiast;Windows+Administration+%26+PowerShell;Learn+%7C+Build+%7C+Break+%7C+Fix+%7C+Improve" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer+in+Progress;Building+Real-World+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Learning+Laravel+%7C+MySQL;Exploring+React+%26+Vue.js;Web+Security+%26+Bug+Bounty+Enthusiast;Windows+Administration+%26+PowerShell;Learn+%7C+Build+%7C+Break+%7C+Fix+%7C+Improve" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Problem_Solver-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fast_Learner-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Detail_Oriented-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open_to_Collaboration-9333EA?style=for-the-badge" />
 
 <br><br>
 
@@ -78,9 +85,11 @@ Networking → Linux → Web Security → Ethical Hacking → Bug Bounty → Sec
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,bash,powershell&theme=dark" />
 
-**Exploring**
+**Exploring — Modern Frontend & Runtime**
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs&theme=dark" />
+
+<sub>Currently learning React and Vue.js fundamentals alongside core JavaScript — not yet production-level, but actively practicing.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=100%25" width="100%">
 
@@ -160,6 +169,8 @@ Projects being built while learning Full Stack Development:
 | PHP          | Backend Programming             |
 | MySQL        | Database Design                 |
 | Laravel      | Modern PHP Development          |
+| React        | Component-Based UI (Exploring)  |
+| Vue.js       | Progressive Framework (Exploring) |
 | Git          | Version Control                 |
 | PowerShell   | Windows Automation              |
 | Web Security | Secure Application Development  |
@@ -192,6 +203,7 @@ Problem → Investigate → Understand → Fix → Test → Improve
 
 - Become a professional Full Stack Web Developer
 - Master JavaScript, PHP, Laravel, and MySQL
+- Gain hands-on experience with React and Vue.js
 - Build production-quality applications
 - Deepen Web Security knowledge
 - Strengthen Windows Administration skills
@@ -229,11 +241,11 @@ Problem → Investigate → Understand → Fix → Test → Improve
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ferdous998/ferdous998/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/ferdous998/ferdous998/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+
+<sub>Generated automatically by GitHub Actions from daily contributions — activates after the Snake workflow's first successful run (see setup guide).</sub>
 
 </div>
-
-*(This image will render only after the Snake Actions workflow has run at least once — see setup steps below.)*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=100%25" width="100%">
 
@@ -242,9 +254,11 @@ Problem → Investigate → Understand → Fix → Test → Improve
 <div align="center">
 
 <a href="https://github.com/ferdous998"><img src="https://img.shields.io/badge/GitHub-ferdous998-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=grey" />
-<img src="https://img.shields.io/badge/Portfolio-Add%20Link-00FF9C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=grey" />
-<img src="https://img.shields.io/badge/Email-Add%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=grey" />
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=grey" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-Add%20Link-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=grey" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-Add%20Link-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=grey" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add%20Link-00FF9C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=grey" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-Add%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=grey" /></a>
 
 </div>
 
