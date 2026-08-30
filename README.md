@@ -249,17 +249,38 @@ Problem → Investigate → Understand → Fix → Test → Improve
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=100%25" width="100%">
 
+
 ## Let's Connect to me
 
 <div align="center">
 
-<a href="https://github.com/ferdous998"><img src="https://img.shields.io/badge/GitHub-ferdous998-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ferdous998"><img src="https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=grey" /></a>
-<a href="https://facebook.com/Ferdous.ahammed"><img src="https://img.shields.io/badge/Facebook-Add%20Link-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=grey" /></a>
-<a href="https://x.com/ferdousbd998"><img src="https://img.shields.io/badge/Twitter-Add%20Link-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=grey" /></a>
-<a href="https://wa.link/bbxygf"><img src="https://img.shields.io/badge/WhatsApp-01829906870-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=grey" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Add%20Link-00FF9C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=grey" /></a>
-<a href="mailto:ferdous998@gmail.com"><img src="https://img.shields.io/badge/Email-ferdous998%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=grey" /></a>
+<a href="https://github.com/ferdous998">
+<img src="https://img.shields.io/badge/GitHub-ferdous998-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ferdous998">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://facebook.com/Ferdous.ahammed">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://x.com/ferdousbd998">
+<img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://wa.link/bbxygf">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Website-00FF9C?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:ferdous998@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -267,7 +288,7 @@ Problem → Investigate → Understand → Fix → Test → Improve
 
 <div align="center">
 
-### "I Don't learn how to use technology. Learn how it works."
+### "Don't just learn how to use technology. Learn how it works."
 
 **Learning • Building • Securing • Improving**
 
